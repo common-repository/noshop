@@ -1,0 +1,23 @@
+﻿.noshop-product {
+				max-width: 100%;
+				max-height: 100%;
+				padding: 8px;
+				padding-bottom: 15px;
+				clear:both;
+}
+
+.noshop-product-imagebox { float: left; }
+.noshop-product-image { }
+.noshop-product-textbox { max-width: 96%; padding-left: 20px; }
+
+.noshop-product-title {
+				font-size: large;
+				font-weight:bold;
+				padding-bottom: 6px;
+}
+.noshop-product-desc { }
+
+.noshop-product-subtable { clear:both; }
+.noshop-product-spec { clear:both; }
+.noshop-product-spec-var { font-weight:bold; float:left; }
+.noshop-product-spec-val { max-width: 96%; }
